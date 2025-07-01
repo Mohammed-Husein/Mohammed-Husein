@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mohammed-Husein
 - 👀 I’m interested in Coding, Frfont-End Projects
-- 🌱 I’m currently learning React.js
+- ForntEnd Dev in Elkood Company
+- 🌱 I’m currently learning backEnd (nodejs)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
